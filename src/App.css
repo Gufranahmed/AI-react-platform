@@ -8,3 +8,14 @@
   -ms-overflow-style: none;  /* Internet Explorer 10+ */
   scrollbar-width: none;  /* Firefox */
 }
+
+/* Theme styles */
+.light-theme {
+  background-color: #f5f5f5;
+  color: #222;
+}
+
+.dark-theme {
+  background-color: #18181b;
+  color: #f5f5f5;
+}
